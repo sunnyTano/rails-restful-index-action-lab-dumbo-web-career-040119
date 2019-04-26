@@ -255,3 +255,4 @@ Processing by StudentsController#index as HTML
 Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.2ms)
 
 
+Started GET "/students" for 104.218.140.34 at 2019-04-26 19:35:56 +0000
